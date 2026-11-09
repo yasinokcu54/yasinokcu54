@@ -1,20 +1,23 @@
 # Hi, I'm Yasin Okçu 👋
+
 ### Junior .NET Full Stack Developer
 
-I'm an aspiring .NET Developer with a background in Physics and nearly 10 years of professional experience in R&D and manufacturing.
+I'm an aspiring software developer focused on building web applications with the .NET ecosystem.
 
-I'm transitioning into software development, focusing on building web applications with C#, ASP.NET Core, and related technologies. I enjoy working on both backend and frontend development and continuously improving my technical skills through hands-on projects.
+I have a bachelor's degree in Physics and nearly 10 years of professional experience in R&D and manufacturing. I am now pursuing a career in software development, combining my analytical thinking and problem-solving skills with my passion for technology.
 
-### 🛠️ Technologies & Skills
+I have hands-on experience with educational projects involving both backend and frontend development, particularly using C# and ASP.NET Core.
 
-**Backend**
+### 🛠️ Technical Skills
+
+**Backend Development**
 - C#
 - ASP.NET Core
 - ASP.NET Core Web API
 - Entity Framework Core
 - MVC
 
-**Frontend**
+**Frontend Development**
 - HTML
 - CSS
 - JavaScript
@@ -24,8 +27,9 @@ I'm transitioning into software development, focusing on building web applicatio
 - Microsoft SQL Server
 - PostgreSQL
 - MongoDB
+- Redis
 
-**Architecture & Development Concepts**
+**Architecture & Design Concepts**
 - Layered Architecture
 - Onion Architecture
 - Microservices
@@ -33,35 +37,41 @@ I'm transitioning into software development, focusing on building web applicatio
 - Repository Pattern
 - Mediator Pattern
 
-**Tools & Other Technologies**
-- Git / GitHub
+**Tools & Technologies**
+- Git & GitHub
 - Docker
 - Ocelot
 - RabbitMQ
-- Redis
 - SignalR
 
-*Some technologies are part of my hands-on training and educational projects.*
+*These technologies reflect a combination of hands-on practice, educational projects, and ongoing training.*
 
 ### 🚀 Featured Projects
 
-- **[CarBook](https://github.com/yasinokcu54/CarBook)** – An educational car rental application developed with ASP.NET Core.
-- **[MultiShop Microservices](https://github.com/yasinokcu54/Z-Y-MultiShop-MicroService)** – An educational e-commerce project focused on microservices architecture.
-- **[SignalR Restaurant](https://github.com/yasinokcu54/SignalR-Z-Y-Restoran)** – A restaurant management application featuring real-time communication with SignalR.
+**[CarBook](https://github.com/yasinokcu54/CarBook)**
 
-### 📚 Currently Learning
+An educational car rental application developed with ASP.NET Core 8. It explores layered architecture, CQRS, authentication, and web application development.
 
-- ASP.NET Core Web API
-- Microservices Architecture
-- Docker and containerization
-- Redis and Elasticsearch
-- Backend and full-stack development practices
+**[MultiShop Microservices](https://github.com/yasinokcu54/Z-Y-MultiShop-MicroService)**
 
-### 💼 Professional Background
+An educational e-commerce project focused on microservices architecture, API Gateway, messaging, and distributed application concepts.
 
-Before focusing on software development, I worked for nearly 10 years in R&D at Pirelli / Prometeon.
+**[SignalR Restaurant](https://github.com/yasinokcu54/SignalR-Z-Y-Restoran)**
 
-My previous experience helped me develop analytical thinking, problem-solving, teamwork, and a strong quality-focused mindset.
+A restaurant management application exploring real-time communication using SignalR.
+
+### 📚 Education & Continuous Learning
+
+- **Bilge Adam Akademi** – .NET Software Development Training (2023)
+- **Ongoing Training** – ASP.NET Core Web API, Microservices, Docker, Redis, MariaDB, Elasticsearch, and SignalR
+
+### 💼 Previous Professional Experience
+
+**R&D – Pirelli / Prometeon (2013–2022)**
+
+Nearly 10 years of experience in R&D and manufacturing environments.
+
+This experience strengthened my analytical thinking, problem-solving, teamwork, documentation, and quality-focused approach.
 
 ### 📫 Contact
 
@@ -72,22 +82,25 @@ My previous experience helped me develop analytical thinking, problem-solving, t
 ---
 
 # Merhaba, Ben Yasin Okçu 👋
+
 ### Junior .NET Full Stack Developer
 
-Fizik lisans eğitiminin ardından yaklaşık 10 yıl boyunca Ar-Ge ve üretim alanlarında profesyonel deneyim kazandım.
+.NET ekosistemiyle web uygulamaları geliştirmeye odaklanan bir yazılım geliştirici adayıyım.
 
-Şu anda yazılım geliştirme alanında kariyerime odaklanıyorum. C#, ASP.NET Core ve ilgili teknolojilerle web uygulamaları geliştirmeyi öğreniyor; hem backend hem de frontend tarafında kendimi geliştirmek için uygulamalı projeler üzerinde çalışıyorum.
+Fizik lisans eğitimimin ardından yaklaşık 10 yıl Ar-Ge ve üretim alanlarında profesyonel deneyim kazandım. Şimdi analitik düşünme ve problem çözme becerilerimi yazılım geliştirme alanına taşıyarak kariyerime bu yönde devam ediyorum.
 
-### 🛠️ Teknolojiler ve Yetkinlikler
+Özellikle C# ve ASP.NET Core kullanarak backend ve frontend geliştirme süreçlerini içeren eğitim projeleri üzerinde çalıştım.
 
-**Backend**
+### 🛠️ Teknik Yetkinlikler
+
+**Backend Geliştirme**
 - C#
 - ASP.NET Core
 - ASP.NET Core Web API
 - Entity Framework Core
 - MVC
 
-**Frontend**
+**Frontend Geliştirme**
 - HTML
 - CSS
 - JavaScript
@@ -97,8 +110,9 @@ Fizik lisans eğitiminin ardından yaklaşık 10 yıl boyunca Ar-Ge ve üretim a
 - Microsoft SQL Server
 - PostgreSQL
 - MongoDB
+- Redis
 
-**Mimari ve Yazılım Geliştirme**
+**Mimari ve Tasarım Yaklaşımları**
 - Katmanlı Mimari
 - Onion Architecture
 - Mikroservis Mimarisi
@@ -106,35 +120,41 @@ Fizik lisans eğitiminin ardından yaklaşık 10 yıl boyunca Ar-Ge ve üretim a
 - Repository Pattern
 - Mediator Pattern
 
-**Araçlar ve Diğer Teknolojiler**
-- Git / GitHub
+**Araçlar ve Teknolojiler**
+- Git & GitHub
 - Docker
 - Ocelot
 - RabbitMQ
-- Redis
 - SignalR
 
-*Bazı teknolojiler üzerinde eğitimlerim ve uygulamalı eğitim projelerim kapsamında çalıştım.*
+*Bu teknolojiler; uygulamalı çalışmalarımı, eğitim projelerimi ve devam eden eğitimlerimi kapsamaktadır.*
 
 ### 🚀 Öne Çıkan Projelerim
 
-- **[CarBook](https://github.com/yasinokcu54/CarBook)** – ASP.NET Core ile geliştirilmiş eğitim amaçlı araç kiralama uygulaması.
-- **[MultiShop Microservices](https://github.com/yasinokcu54/Z-Y-MultiShop-MicroService)** – Mikroservis mimarisini deneyimlemek amacıyla geliştirilmiş eğitim amaçlı e-ticaret projesi.
-- **[SignalR Restaurant](https://github.com/yasinokcu54/SignalR-Z-Y-Restoran)** – SignalR ile gerçek zamanlı iletişim özellikleri içeren restoran yönetim uygulaması.
+**[CarBook](https://github.com/yasinokcu54/CarBook)**
 
-### 📚 Şu Anda Öğreniyorum
+ASP.NET Core 8 ile geliştirilmiş eğitim amaçlı araç kiralama uygulaması. Katmanlı mimari, CQRS, kimlik doğrulama ve web uygulaması geliştirme konularını içermektedir.
 
-- ASP.NET Core Web API
-- Mikroservis Mimarisi
-- Docker ve konteyner teknolojileri
-- Redis ve Elasticsearch
-- Backend ve Full Stack geliştirme pratikleri
+**[MultiShop Microservices](https://github.com/yasinokcu54/Z-Y-MultiShop-MicroService)**
 
-### 💼 İş Deneyimim
+Mikroservis mimarisi, API Gateway, mesajlaşma ve dağıtık uygulama yaklaşımlarını deneyimlemek amacıyla geliştirilmiş eğitim projesi.
 
-Yazılım alanına yönelmeden önce yaklaşık 10 yıl Pirelli / Prometeon Ar-Ge biriminde çalıştım.
+**[SignalR Restaurant](https://github.com/yasinokcu54/SignalR-Z-Y-Restoran)**
 
-Bu deneyim bana analitik düşünme, problem çözme, ekip çalışması ve kalite odaklı çalışma konularında önemli katkılar sağladı.
+SignalR kullanılarak gerçek zamanlı iletişim özellikleri üzerinde çalışılan restoran yönetim uygulaması.
+
+### 📚 Eğitim ve Sürekli Gelişim
+
+- **Bilge Adam Akademi** – .NET Yazılım Geliştirme Eğitimi (2023)
+- **Devam Eden Eğitim** – ASP.NET Core Web API, Mikroservis Mimarisi, Docker, Redis, MariaDB, Elasticsearch ve SignalR
+
+### 💼 Önceki İş Deneyimim
+
+**Ar-Ge – Pirelli / Prometeon (2013–2022)**
+
+Ar-Ge ve üretim ortamlarında yaklaşık 10 yıllık profesyonel deneyim.
+
+Bu deneyim analitik düşünme, problem çözme, ekip çalışması, dokümantasyon ve kalite odaklı çalışma becerilerimi geliştirdi.
 
 ### 📫 İletişim
 
